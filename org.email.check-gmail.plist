@@ -9,7 +9,7 @@
       <key>ProgramArguments</key>
       <array>
       <string>/usr/bin/python</string>
-      <string>/Users/Path/to/your/check-gmail</string>
+      <string>/Users/Path/to/your/check-gmail.py</string>
       </array>
       <key>StartInterval</key>
       <integer>60</integer>
