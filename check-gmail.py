@@ -17,11 +17,11 @@ newmails = int(feedparser.parse(PROTO + USERNAME + ":" + PASSWORD + "@" + SERVER
    
 # Output data to serial port
 if newmails > 0: 
-	ser.write("m")
-	print "some mail"
+	ser.write("M")
+	print "Human--- You have mail!"
 else: 
-	ser.write("n")
-	print "no mail" 
+	ser.write("N")
+	print "You have no Mail" 
 #print data to terminal
 
 

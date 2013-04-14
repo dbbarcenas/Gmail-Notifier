@@ -8,7 +8,7 @@
       <true/>
       <key>ProgramArguments</key>
       <array>
-      <string>/usr/bin/python</string>
+      <string>/usr/bin/python2.5</string>
       <string>/Users/Path/to/your/check-gmail.py</string>
       </array>
       <key>StartInterval</key>
